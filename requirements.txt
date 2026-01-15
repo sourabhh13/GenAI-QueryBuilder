@@ -1,0 +1,37 @@
+# AI Frameworks
+langchain
+langchain-google-genai    # LangChain integration for Google Generative AI (Gemini)
+llama-index
+crewai
+chromadb
+
+# LLMs & Embeddings
+# Replaced openai with Google GenAI SDK and LangChain Google bridge
+google-genai              # Official Google Gen AI SDK (Gemini)
+transformers
+sentence-transformers
+
+# Backend & API
+fastapi
+uvicorn
+pydantic
+
+# Database Drivers
+sqlalchemy
+psycopg2-binary      # PostgreSQL
+pyodbc               # SQL Server
+mysql-connector-python
+snowflake-connector-python
+
+# Additional Tools
+tqdm
+python-dotenv        # Environment Variables
+loguru               # Logging
+
+# Testing
+pytest
+
+# misc
+sqlparse
+
+
